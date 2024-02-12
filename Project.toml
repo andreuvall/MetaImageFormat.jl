@@ -5,6 +5,7 @@ version = "0.2.3"
 [deps]
 AxisArrays = "39de3d68-74b9-583c-8d2d-e117c070f3a9"
 ColorVectorSpace = "c3611d14-8923-5661-9e6a-0046d554d3a4"
+CompatHelper = "aa819f21-2bde-4658-8897-bab36330d9b7"
 FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
 ImageAxes = "2803e5a7-5153-5ecf-9a86-9b4c37f5f5ac"
 ImageCore = "a09fc81d-aa75-5fe9-8630-4744c3626534"
